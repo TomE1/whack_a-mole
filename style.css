@@ -1,9 +1,8 @@
 body {
-  text-align: center;
-  background: url(../images/mario-bg.jpg);
-  background-size: cover;
+color: orange;
+background-color: blue;
 }
-
+/* 
 #board {
   width: 540px;
   height: 540px;
@@ -35,4 +34,4 @@ body {
   -webkit-user-drag: none;
   -webkit-user-select: none;
   -ms-user-select: none;
-}
+} */
